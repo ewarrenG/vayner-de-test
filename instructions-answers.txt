@@ -1,0 +1,7 @@
+1. what was the total spent against people with purple hair? — 566512 
+2. how many campaigns spent on more than 4 days? — 133 
+3. how many times did source H report on clicks? — 31779 
+4. which sources reported more "junk" than "noise"? — ['J', 'E', 'D'] 
+5. what was the total cost per view for all video ads, truncated to two decimal places? — 16.49 
+6. how many source B conversions were there for campaigns targeting NY? — 268 
+7. what combination of state and hair color had the best CPM? — ['CA', 'white']
